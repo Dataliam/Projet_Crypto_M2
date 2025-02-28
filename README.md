@@ -3,12 +3,17 @@
 Ce projet a été réalisé dans le cadre du cours Cryptocurrencies & BTC, avec pour objectif la conception et l’optimisation d’une stratégie de trading algorithmique sur Ethereum (5 minutes), en utilisant des techniques d’analyse technique et de backtesting.
 
 🔍 Stratégies développées
+
 📅 Découpage des données :
 
 Période d'entraînement (Train) : 2021 Jusqu'à décembre 2023
+
 Période de test (Test) : janvier 2024 à février 2025
+
 ⚡ Stratégie 1 : Trading sur Moyennes Mobiles
+
 1️⃣ Optimisation des Moyennes Mobiles (MM) via GridSearch sur la période d’entraînement.
+
 2️⃣ Génération d’un signal d'achat (1) ou de vente (-1) :
 
 Achat (Signal = 1) : On achète 1 ETH et on le conserve jusqu'à un signal de vente (-1).
