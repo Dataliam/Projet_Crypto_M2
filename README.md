@@ -32,6 +32,7 @@ Buy & Hold : Achat d’1 ETH en début de période et conservation jusqu'à la f
 Stratégie 1 (MM uniquement) : Achat/Vente en fonction des moyennes mobiles optimales.
 Stratégie 2 (MM + Indicateurs avancés) : Prise de décision basée sur un ensemble de critères techniques.
 Objectif : Évaluer laquelle des stratégies est la plus performante sur la période test.
+
 📂 Contenu du projet
 
 🔹 1. import_data.ipynb 🛠️
